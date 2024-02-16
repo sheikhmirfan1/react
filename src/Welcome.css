@@ -1,0 +1,12 @@
+.welcome-card{
+    border: 2px solid white;
+    margin : 2% 2% 2% 2%;
+}
+
+.welcome{
+    color: blue;
+}
+
+.good-bye{
+    color : red
+}

@@ -1,0 +1,10 @@
+.avatar-container{
+    border: 2px white solid;
+    margin: 2% 2% 2% 2%;
+}
+
+.avatar-container img {
+    height: 250px;
+    width: 250px;
+}
+
